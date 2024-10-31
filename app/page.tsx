@@ -25,9 +25,9 @@ export default function AboutMe() {
               <div className="pt-4">
                 <h2 className="text-xl font-semibold mb-2 text-gray-900 dark:text-white">Connect with me</h2>
                 <div className="flex space-x-4">
-                  <SocialButton icon={<Github className="h-5 w-5" />} label="GitHub" href="https://github.com/aleksandarilic" />
-                  <SocialButton icon={<Linkedin className="h-5 w-5" />} label="LinkedIn" href="https://www.linkedin.com/in/aleksandarilic/" />
-                  <SocialButton icon={<Twitter className="h-5 w-5" />} label="Twitter" href="https://twitter.com/aleksandarilic" />
+                  <SocialButton icon={<Github className="h-5 w-5" />} label="GitHub" href="https://github.com/" />
+                  <SocialButton icon={<Linkedin className="h-5 w-5" />} label="LinkedIn" href="https://www.linkedin.com/" />
+                  <SocialButton icon={<Twitter className="h-5 w-5" />} label="Twitter" href="https://twitter.com" />
                 </div>
               </div>
             </div>
